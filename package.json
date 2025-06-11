@@ -1,0 +1,28 @@
+{
+  "name": "package-statistics",
+  "version": "1.0.0",
+  "description": "Learning Github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhonalex06/Github-packages.git"
+  },
+  "keywords": [],
+  "author": "Jhon Galindo",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/jhonalex06/Github-packages/issues"
+  },
+  "homepage": "https://github.com/jhonalex06/Github-packages#readme",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.4.9",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
