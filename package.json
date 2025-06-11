@@ -1,5 +1,5 @@
 {
-  "name": "package-statistics",
+  "name": "@jhonalex06/package-statistics",
   "version": "1.0.0",
   "description": "Learning Github packages",
   "main": "index.js",
